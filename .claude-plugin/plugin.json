@@ -7,10 +7,7 @@
     "url": "https://github.com/jaey0on"
   },
   "homepage": "https://github.com/jaey0on/newgrad-toolkit",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jaey0on/newgrad-toolkit.git"
-  },
+  "repository": "https://github.com/jaey0on/newgrad-toolkit",
   "license": "MIT",
   "keywords": ["job-search", "resume", "cover-letter", "interview-prep", "new-grad", "career"]
 }
