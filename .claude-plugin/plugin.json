@@ -1,0 +1,16 @@
+{
+  "name": "newgrad-toolkit",
+  "version": "0.1.0",
+  "description": "Job search toolkit for new grads. Tailors resumes to JDs, drafts cover letters, preps interviews, researches companies, and writes networking outreach.",
+  "author": {
+    "name": "Jae Yoon",
+    "url": "https://github.com/jaey0on"
+  },
+  "homepage": "https://github.com/jaey0on/newgrad-toolkit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaey0on/newgrad-toolkit.git"
+  },
+  "license": "MIT",
+  "keywords": ["job-search", "resume", "cover-letter", "interview-prep", "new-grad", "career"]
+}
